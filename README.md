@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ssalijoshua
+- 👀 I’m interested in developing solutions to the daily problems we face as computer users. 
+- 🌱 I’m currently learning to use code to solve various computer problems
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ssalijoshua2002@gmail.com
