@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ssalijoshua
-- 👀 I’m interested in developing solutions to the daily problems we face as computer users. 
-- 🌱 I’m currently learning to use code to solve various computer problems
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in creating computer-based solutions to the daily problems humans beings face.
+- 💞️ I’m looking to collaborate on data science, AI and Cyber security
 - 📫 How to reach me ssalijoshua2002@gmail.com
+
