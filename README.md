@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to Ssali Joshua's github account</h1>
-<h3 align="center">A passionate about tech and because I love to be challenged, I havent yet specialized. But you can checkout my repositories for any work that might interest you.</h3>
+<h3 align="center">I am passionate about tech and because I love to be challenged, I havent yet specialized. But you can checkout my repositories for any work that might interest you.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sssalijoshua&label=Profile%20views&color=0e75b6&style=flat" alt="sssalijoshua" /> </p>
 
