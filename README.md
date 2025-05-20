@@ -1,9 +1,7 @@
-<h1 align="center">Welcome to Ssali Joshua's GitHub Profile</h1>
+<h1 align="center">Hello👋! Welcome to Ssali Joshua's GitHub Profile</h1>
 <h3 align="center">I am passionate about tech and because I love to be challenged, I haven't yet specialized. But you can check out my repositories for any work that might interest you.</h3>
 
-<h2 align="left">Hi 👋! My name is Ssali Joshua and I'm a passionate tech enthusiast and developer from Uganda.</h2>
 
-###
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Ssalijoshua&label=Profile%20views&color=0e75b6&style=flat" alt="Ssalijoshua" />
